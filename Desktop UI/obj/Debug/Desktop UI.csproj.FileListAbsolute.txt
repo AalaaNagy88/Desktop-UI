@@ -1,0 +1,8 @@
+E:\GP\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe.config
+E:\GP\Desktop UI\Desktop UI\bin\Debug\Desktop UI.exe
+E:\GP\Desktop UI\Desktop UI\bin\Debug\Desktop UI.pdb
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Form1.resources
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop_UI.Properties.Resources.resources
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop UI.csproj.GenerateResource.Cache
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop UI.exe
+E:\GP\Desktop UI\Desktop UI\obj\Debug\Desktop UI.pdb
